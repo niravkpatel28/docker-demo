@@ -1,0 +1,9 @@
+POST http://localhost:4000/users
+content-type: application/json
+
+{
+    "name":"Nirav",
+    "email":"nirav@some.com"
+}
+###
+GET  http://localhost:4000/users
