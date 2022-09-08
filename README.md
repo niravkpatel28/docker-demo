@@ -68,7 +68,7 @@ need to rely on what is currently installed on the host.
 
 ### Advantage of using Docker
 
-**Consistent Environment **
+**Consistent Environment**
 
 Consistency is a key benefit of Docker wherein developers run an application in
 a consistent environment right from design and development to production and
