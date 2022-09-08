@@ -1,6 +1,5 @@
-# docker-demo
+# Docker Introduction
 
-This repository is to demonstrate containerisation of a node js application
 
 ## What happens when you run multiple applications on the same local host?
 
