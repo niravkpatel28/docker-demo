@@ -66,7 +66,7 @@ need to rely on what is currently installed on the host.
 
 ![VM to docker](public/05-use-docker.png)
 
-### Advantage of using Docker
+### **Advantages of using Docker**
 
 **Consistent Environment**
 
@@ -88,7 +88,7 @@ the infrastructure at ease.
 
 ![Adavantage of Docker](public/03-use-vm.png)
 
-Creating containers with Docker
+### **Creating containers with Docker**
 
 Docker creates a level of abstraction on top of the local machine and allows
 launching application in self sufficient and self contained enviroments. Before
@@ -104,7 +104,7 @@ using the same build image.
 
 ![image container function](public/08-docker-image.png)
 
-Creating a Docker image
+### **Creating a Docker image**
 
 A Docker image can be build by using text configuration written in a
 [Dockerfile](Dockerfile). Using the docker build command one can create a docker
