@@ -1,6 +1,5 @@
 # Docker Introduction
 
-
 ## What happens when you run multiple applications on the same local host?
 
 A single local machine can have multiple programms running simultaneously on it.
@@ -47,7 +46,7 @@ sufficient enough, it will cause stability issues in the performance.
 Since virtual machine access the physical machine indirectly, the time to boot
 up and process operations are slower. It might take several minutes to boot up a
 virtual machine, since effectively its is starting a new machine and has to
-perform the OS boot operations.
+perform the OS boot operations. ![Using Virtual Machines](public/03-use-vm.png)
 
 ![virtual machine drawbacks](public/04-vm-problems.png)
 
@@ -85,7 +84,7 @@ the infrastructure at ease.
 
 [source](https://www.cloudtern.com/cloud/top-5-advantages-of-using-docker/).
 
-![Adavantage of Docker](public/03-use-vm.png)
+![Why use docker](public/06-why-docker.png)
 
 ### **Creating containers with Docker**
 
